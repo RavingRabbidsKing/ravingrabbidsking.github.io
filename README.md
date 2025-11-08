@@ -1,6 +1,6 @@
 # ravingrabbidsking.github.io
 my github pages website
-#👋 Hi, I’m @RavingRabbidsKing
+👋 Hi, I’m @RavingRabbidsKing
 
 👀 I’m interested in making minecraft mods and chrome extensions, and makecode projects!
 🌱 I’m currently learning HTML, Python, pHp, JS, Scratch, and MakeCode Arcade Projects.
